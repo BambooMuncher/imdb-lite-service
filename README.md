@@ -1,4 +1,4 @@
-# Kotlin Spring Boot Example Service
+# IMDB Lite
 
 ## Running the Service
 
